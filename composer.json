@@ -1,0 +1,16 @@
+{
+    "name": "origindesign/custom_alias",
+    "description": "Custom Alias - A Drupal 8 module for overriding URL alias",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lindsay Wilson",
+            "email": "lwilson@origindesign.ca"
+        }
+    ],
+    "type": "drupal-module",
+    "require": {
+		"php": ">=5.6"
+    },
+	"minimum-stability": "dev"
+}

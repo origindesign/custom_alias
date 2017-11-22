@@ -1,0 +1,5 @@
+name: 'Custom URL Alias'
+type: module
+description: 'Set URL alias based on field criteria'
+package: Custom
+core: 8.x
