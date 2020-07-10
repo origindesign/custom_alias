@@ -10,10 +10,8 @@
     ],
     "type": "drupal-module",
     "require": {
-        "php": ">=5.6"
-    },
-    "minimum-stability": "dev",
-    "require-dev": {
+        "php": ">=7.3",
         "drupal/pathauto": "^1.0"
-    }
+    },
+    "minimum-stability": "dev"
 }
