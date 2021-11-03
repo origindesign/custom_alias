@@ -2,4 +2,4 @@ services:
     # A service that contains functions for setting alias
     custom_alias.alias_manager:
         class: Drupal\custom_alias\AliasManager
-        arguments: [ "@path.alias_storage", "@pathauto.alias_cleaner" ]
+        arguments: [ "@pathauto.alias_storage_helper", '@path_alias.repository', "@pathauto.alias_cleaner" ]

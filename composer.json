@@ -8,7 +8,7 @@
             "email": "lwilson@origindesign.ca"
         }
     ],
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "require": {
         "php": ">=7.3",
         "drupal/pathauto": "^1.0"
