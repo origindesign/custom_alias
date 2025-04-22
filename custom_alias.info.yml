@@ -2,7 +2,7 @@ name: 'Custom URL Alias'
 type: module
 description: 'Set URL alias based on field criteria'
 package: Custom
-version: '8.x-4.0'
-core_version_requirement: ^9 || ^10
+version: '8.x-5.0'
+core_version_requirement: ^10 || ^11
 dependencies:
   - pathauto:pathauto
